@@ -405,3 +405,7 @@
     opacity: 1;
     fill: var(--success-color);
 }
+
+video {
+  transform: scaleX(-1); /* Flips the video */
+}
